@@ -3,3 +3,7 @@ version: '${project.version}'
 main: com.metaxcrew.actitickets.ActiTickets
 api-version: 1.18
 authors: [ PxLib ]
+commands:
+  tickets:
+  apticket:
+
